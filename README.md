@@ -26,6 +26,7 @@
     - [Free Cajon Lessons](https://playcajon.org/free-lessons/)
     - [All Youtube Videos](https://www.youtube.com/user/DrumDivot/videos)
   * [Martin Krendl](https://www.youtube.com/user/makren0852/videos)
+  * [Cajon Master: Cajon Lessons](https://www.youtube.com/playlist?list=PL7ywwJyHBakRfA508QD0eKyKA4vrlQFCF)
 
 ### Video Courses based on textbooks
   * Cajón lernen – Schule für Anfänger: [Textbook](http://leuwa.de/sortiment/unterrichtswerke/caj%C3%B3n/), [Youtube-Playlist](https://www.youtube.com/playlist?list=PL96ACF6850C91784E)
